@@ -1,4 +1,4 @@
-# https://chinmaydharwad24.github.io/Personal_Portfolio/
+# Personal Portfolio: https://chinmaydharwad24.github.io/Personal_Portfolio/
 
 ![Logo data](/img/readme_logo.png?raw=true "Porfolio Logo")
 
