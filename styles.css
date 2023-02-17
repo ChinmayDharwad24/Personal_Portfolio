@@ -524,8 +524,13 @@ footer .top {
     width: 300px;
     height: 300px;
   }
+  .contact .col .info {
+    position: absolute;
+    top: 129px;
+  }
 }
 @media screen and (max-width: 700px) {
+
   .about .row {
     display: block;
   }
@@ -544,7 +549,7 @@ footer .top {
     display: block;
   }
   .curriculum .row .col {
-    width: 90%;
+    width: 100%;
   }
  
   .curriculum .row .quote img{
@@ -569,5 +574,14 @@ footer .top {
   }
   .contact .row .col {
     width: 100%;
+  }
+  .curriculum .row .quote img{
+    width: 280px;
+    height: 260px;
+  }
+
+  .contact .col .info {
+    position: absolute;
+    top: 129px;
   }
 }
