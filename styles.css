@@ -186,7 +186,7 @@ html {
   font-size: 16px;
   color: #fff;
   position: relative;
-  z-index: 10;
+  z-index: 1;
   width: 170px;
 }
 .about button .overlay {
